@@ -42,7 +42,7 @@ z-index: +1;
    padding-left: 10px;
  }
   .cover-page {
-  background-image: url("Cover Pages/Bakcground-F.jpg"); /* The image used */
+  background-image: url("Bakcground-F.jpg"); /* The image used */
   background-color: #cccccc;
   height: 450px;
   background-position: center;
