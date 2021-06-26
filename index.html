@@ -84,7 +84,7 @@
     </div>
 
     <div class="sale">
-      <img class="sale-img" src="sale.jpg" alt="">
+      <img class="sale-img" src="Sale.jpg" alt="">
 
     </div>
 
