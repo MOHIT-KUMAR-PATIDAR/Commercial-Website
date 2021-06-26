@@ -245,7 +245,7 @@ a:active {
   height: 200px;
 }
 .dining-sale{
-  background-image: url("sale-images/dining-sale1.jpg"); /* The image used */
+  background-image: url("dining-sale1.jpg"); /* The image used */
   background-color: #cccccc;
   background-position: center;
   background-repeat: no-repeat;
@@ -255,7 +255,7 @@ a:active {
   margin-top: 5vw;
 }
 .sofa-sale{
-  background-image: url("sale-images/sofa-sale.png"); /* The image used */
+  background-image: url("sofa-sale.png"); /* The image used */
   background-color: #cccccc;
   background-position: center;
   background-repeat: no-repeat;
@@ -264,7 +264,7 @@ a:active {
   height: 26vw;
 }
 .juicers-sale{
-  background-image: url("sale-images/juicers-sale.jpg"); /* The image used */
+  background-image: url("juicers-sale.jpg"); /* The image used */
   background-color: #cccccc;
   background-position: center;
   background-repeat: no-repeat;
