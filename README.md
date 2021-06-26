@@ -97,21 +97,21 @@
         </div>
         <div class="carousel-inner testimonial ">
           <div class="carousel-item active" data-bs-interval="2000">
-            <a href="#WaterPurifier"><img src="Cover Pages/WaterPurifier.jpg" class="d-block w-100 carousel-images" alt="..."></a>
+            <a href="#WaterPurifier"><img src="WaterPurifier.jpg" class="d-block w-100 carousel-images" alt="..."></a>
             <div class="carousel-caption d-none d-md-block ">
               <h4>Get the quality here</h4>
               <p>We specialize in the best appliances for your home</p>
             </div>
           </div>
           <div class="carousel-item testimonial " data-bs-interval="2000">
-            <a href="#juicer"><img src="Cover Pages/KitchenAppliances.jpg" class="d-block w-100 carousel-images" alt="..."></a>
+            <a href="#juicer"><img src="KitchenAppliances.jpg" class="d-block w-100 carousel-images" alt="..."></a>
             <div class="carousel-caption d-none d-md-block">
               <h4>Get what your house needs</h4>
               <p>All kitchen appliances for you are here</p>
             </div>
           </div>
           <div class="carousel-item testimonial" data-bs-interval="2000">
-            <a href="#refrigerator"><img src="Cover Pages/refrigerator.png" class="d-block w-100 carousel-images" alt="..."></a>
+            <a href="#refrigerator"><img src="refrigerator.png" class="d-block w-100 carousel-images" alt="..."></a>
             <div class="carousel-caption d-none d-md-block">
               <h4>A time to choose something new</h4>
               <p>Feel the comfort feel the future</p>
